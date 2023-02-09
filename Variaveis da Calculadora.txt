@@ -1,0 +1,28 @@
+Variaveis Complicadas da Calculadora.
+Aritmética:
+
+bdiv = Botão Divisão
+bmult = Botão Multiplicação
+bmenos = Botão de Menos
+bmais = Botão de Mais             
+
+Números:
+b1 = 1
+b2 = 2
+b3 = 3
+b4 = 4
+b5 = 5
+b6 = 6
+b7 = 7
+b8 = 8
+b9 = 9
+b0 = 0
+
+
+Outros:
+
+blimpar = Limpar
+visor = Painel Principal
+bigual = Igual
+bpon = Ponto
+OpInfo = Informação sobre a operação escolhida
